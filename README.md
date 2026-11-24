@@ -71,7 +71,8 @@ Zkopírujte `jmhz.example.ini` jako `jmhz.ini` (vedle `jmhz.py`):
 Soubor se vytvoří **jen tehdy, když projde všemi kontrolami**. Jinak program vypíše,
 co je špatně, a nevytvoří nic.
 
-- **XSD schéma JMHZ 1.4.3.6** (oficiální schéma ČSSZ/MPSV, přiloženo ve složce `schemas/`).
+- **XSD schéma JMHZ 1.4.3.6** (oficiální schéma ČSSZ/MPSV, přiloženo ve složce `schemas/`;
+  zdroj: [ČSSZ – Pro vývojáře JMHZ](https://www.cssz.gov.cz/web/cz/pro-vyvojare-jmhz)).
 - **Vybrané kontroly z Katalogu kontrol MH 1.4.2.11**, např.:
   pojistné = sazba × vyměřovací základ se zaokrouhlením nahoru (č. 8, 118, 315),
   součty pojistného (č. 4, 11, 13, 168), úhrny základů za zaměstnance (č. 7, 216),
