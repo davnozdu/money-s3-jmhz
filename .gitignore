@@ -1,0 +1,14 @@
+# Osobní data – nikdy necommitovat
+*.pdf
+*.PDF
+jmhz.ini
+JMHZ_*.xml
+JMHZ_*.zip
+# Lokální poznámky k vývoji
+docs/
+.superpowers/
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
